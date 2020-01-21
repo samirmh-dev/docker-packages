@@ -21,6 +21,7 @@ Version tags: **latest**, **7.3.13-fpm-buster**
 - [x] `gd` extension
 - [x] `imagick` extension
 - [x] `pspell` extension
+- [ ] `xdebug` extension
 
 #### Pspell dictionaries
 
@@ -35,6 +36,9 @@ Version tags: **latest**, **7.3.13-fpm-buster**
 
 #### Example: 
 `FROM docker.pkg.github.com/samirmh-dev/docker-packages/php:7.3.13-fpm-buster`
+
+#### XDebug installation docs
+###### coming soon
 
 ## More coming ...
 
