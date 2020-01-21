@@ -23,10 +23,7 @@ Version tags: **latest**, **7.3.13-fpm-buster**
 - [x] `pspell` extension
 - [ ] `xdebug` extension
 
-#### Pspell dictionaries
-
-- [x] All default pspell dictionaries. Additional dictionaries included:
-- [x] `Azerbaijan` dictionary for pspell
+#### 1.1) Usage
 
 #### Pull image from the command line: 
 `docker pull docker.pkg.github.com/samirmh-dev/docker-packages/php:version_tag` 
@@ -37,10 +34,15 @@ Version tags: **latest**, **7.3.13-fpm-buster**
 #### Example: 
 `FROM docker.pkg.github.com/samirmh-dev/docker-packages/php:7.3.13-fpm-buster`
 
-#### XDebug installation docs
-###### coming soon
+#### 1.2) Pspell dictionaries
 
+- [x] All default pspell dictionaries. Additional dictionaries included:
+- [x] `Azerbaijan` dictionary for pspell
+
+#### 1.3) XDebug installation docs
+###### coming soon
+<br>
 ## More coming ...
 
 
-# Feel free to create issues, pull requests, feature requests and etc.
+##### Feel free to create issues, pull requests, feature requests and etc.
