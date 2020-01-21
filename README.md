@@ -31,6 +31,9 @@ Version tags: **latest**, **7.3.13-fpm-buster**
 #### Use as base image in DockerFile: 
 `FROM docker.pkg.github.com/samirmh-dev/docker-packages/php:version_tag`
 
+#### Use as image in docker-compose.yml
+`image: docker.pkg.github.com/samirmh-dev/docker-packages/php:version_tag`
+
 #### Example: 
 `FROM docker.pkg.github.com/samirmh-dev/docker-packages/php:7.3.13-fpm-buster`
 
