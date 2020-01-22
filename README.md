@@ -1,3 +1,5 @@
+![Image of social preview](https://repository-images.githubusercontent.com/232563998/d79eed80-3d01-11ea-800c-a067824bd73f)
+
 # docker-packages
 Personal docker packages registry
 
